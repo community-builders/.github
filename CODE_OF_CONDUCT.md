@@ -1,6 +1,6 @@
-# The Contributor Covenant governs the Dev Protocol Ambassador program
+# The Contributor Covenant governs the Community Builders program
 
-As an aspiring Dev Protocol Ambassador, you are undergoing a journey to make tech communities more accessible and inclusive. You, and other community members learning around you, should expect to conduct this journey safely, and harassment-free. To ensure that everyone is safe, comfortable and feels welcomed, participants in this repository abide by the terms of the Contributor Covenant, version 2.0 (https://www.contributor-covenant.org/version/2/0/code_of_conduct/). Full text of the code of conduct as pertains to this repository is included below. You can find steps to report a violation at the bottom of this document.
+As Community Builders, you are undergoing a journey to make tech communities more accessible and inclusive. You, and other community members learning around you, should expect to conduct this journey safely, and harassment-free. To ensure that everyone is safe, comfortable and feels welcomed, participants in this repository abide by the terms of the Contributor Covenant, version 2.0 (https://www.contributor-covenant.org/version/2/0/code_of_conduct/). Full text of the code of conduct as pertains to this repository is included below. You can find steps to report a violation at the bottom of this document.
 
 # Contributor Covenant Code of Conduct Version 2.0
 
@@ -42,12 +42,12 @@ Examples of unacceptable behavior by participants include:
 
 ## Our Responsibilities
 
-Ambassadors are responsible for clarifying and enforcing our standards of
+Community builders are responsible for clarifying and enforcing our standards of
 acceptable behavior and will take appropriate and fair corrective action in
 response to any behavior that they deem inappropriate, threatening, offensive,
 or harmful.
 
-Ambassadors have the right and responsibility to remove, edit, or reject
+Community builders have the right and responsibility to remove, edit, or reject
 comments, commits, code, wiki edits, issues, and other contributions that are
 not aligned to this Code of Conduct, and will communicate reasons for moderation
 decisions when appropriate.
@@ -62,11 +62,11 @@ representative at an online or offline event.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the ambassadors responsible for enforcement at hi@devprotocol.xyz. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community managers responsible for enforcement at community@devprotocol.xyz. All complaints will be reviewed and investigated promptly and fairly.
 
 All complaints will be reviewed and investigated promptly and fairly.
 
-All ambassadors are obligated to respect the privacy and security of the
+All community builders are obligated to respect the privacy and security of the
 reporter of any incident.
 
 ## Attribution
@@ -90,6 +90,6 @@ at [https://www.contributor-covenant.org/translations][translations].
 
 # Getting help with a violation or incident, the TLDR:
 
-If for any reason, you feel unsafe, unwelcome or uncomfortable as a result of an interaction within the Dev Protocol Ambassador program, ways to report the incident and get support are listed below
+If for any reason, you feel unsafe, unwelcome or uncomfortable as a result of an interaction within the Community Builders program, ways to report the incident and get support are listed below
 
--   Contact @hq team at [discord](https://discord.gg/VwJp4KM) or the Dev Protocol team at hi@devprotocol.xyz
+-   Contact Community Manager team at [discord](https://discord.gg/VwJp4KM) or email us at community@devprotocol.xyz
