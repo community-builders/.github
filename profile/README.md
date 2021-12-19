@@ -3,4 +3,4 @@
 # Welcome to Community Builders
 Community Builders are specialized groups who are eager to help the Dev Protocol ecosystem to grow, lead their community, and develop content that will help anyone to get started in blockchain, web3, and dev protocol technology.
 
-<p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&height=61&lines=Coming+Soon"></p>
+Learn more about the Program on the [Builders Website](https://builders.devprotocol.xyz/).
